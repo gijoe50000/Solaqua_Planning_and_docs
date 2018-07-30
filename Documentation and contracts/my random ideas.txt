@@ -1,0 +1,7 @@
+use jquery
+
+use ajax for products
+
+don't forget weather api-maybe look for one that gives days of sunshine per year
+
+use jQueryUi tabs for products
